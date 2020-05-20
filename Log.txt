@@ -1,0 +1,47 @@
+Lietotājs ievadīja nepareizi veiksmes skaitli.
+Lietotājs ievadīja nepareizi veiksmes skaitli.
+Lietotājs ievadīja pareizi veiksmes skaitli, kas ir 123
+Spēlētāja rezultāts: 2
+Spēlētāja rezultāts: 2
+Lādējam spēles failu.
+Spēlētāja rezultāts: 0
+Spēlētāja rezultāts: 0
+Lādējam spēles failu.
+Spēlētāja rezultāts: 5
+Spēlētāja rezultāts: 5
+Lādējam spēles failu.
+Spēlētāja rezultāts: 0
+Spēlētāja rezultāts: 0
+Lādējam spēles failu.
+Spēlētāja rezultāts: 0
+Spēlētāja rezultāts: 0
+Lādējam spēles failu.
+Spēlētāja rezultāts: 12
+Spēlētāja rezultāts: 12
+Lādējam spēles failu.
+Spēlētāja rezultāts: 0
+Spēlētāja rezultāts: 0
+Lādējam spēles failu.
+Lietotājs ievadīja pareizi veiksmes skaitli, kas ir 132
+Lietotājs ievadīja pareizi veiksmes skaitli, kas ir 123
+Spēlētāja rezultāts: 0
+Spēlētāja rezultāts: 0
+Lādējam spēles failu.
+Spēlētāja rezultāts: 4
+Spēlētāja rezultāts: 4
+Lādējam spēles failu.
+Saglabājam jauno labāko rezultātu.
+Spēlētāja rezultāts: 3
+Spēlētāja rezultāts: 3
+Lādējam spēles failu.
+Spēlētāja rezultāts: 0
+Spēlētāja rezultāts: 0
+Lādējam spēles failu.
+Spēlētāja rezultāts: 0
+Spēlētāja rezultāts: 0
+Lādējam spēles failu.
+Spēlētāja rezultāts: 0
+Spēlētāja rezultāts: 0
+Lādējam spēles failu.
+Lietotājs ievadīja nepareizi veiksmes skaitli.
+Lietotājs ievadīja pareizi veiksmes skaitli, kas ir 1
